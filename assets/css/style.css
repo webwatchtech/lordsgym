@@ -392,7 +392,7 @@ hr {
 }
 
 .btn {
-    background: #1f2b7b;
+    background: #0096FF;
     font-family: "Teko", sans-serif;
     text-transform: uppercase;
     padding: 27px 44px;
@@ -557,7 +557,7 @@ hr {
 
 #scrollUp,
 #back-top {
-    background: #1f2b7b;
+    background: #0096FF;
     height: 50px;
     width: 50px;
     right: 31px;
@@ -2400,7 +2400,7 @@ hr {
     font-weight: 300;
     margin-left: 72px;
     margin-bottom: 22px;
-    color: red;
+    color: #0096FF;
     text-transform: uppercase;
     display: inline-block;
     position: relative
@@ -2692,7 +2692,7 @@ hr {
 }
 
 .mobile_menu .slicknav_menu .slicknav_btn .slicknav_icon-bar {
-    background-color: #1f2b7b !important
+    background-color: White !important
 }
 
 .mobile_menu .slicknav_menu .slicknav_nav {
@@ -3289,7 +3289,7 @@ hr {
     font-family: "Teko", sans-serif;
     font-size: 16px;
     color: #fff;
-    background: #1f2b7b;
+    background: #0096FF;
     font-size: 16px;
     text-transform: uppercase;
     padding: 20px 0;
@@ -3687,7 +3687,7 @@ hr {
 }
 
 .date-tabs .tab-wrapper .single-box .single-caption.active {
-    background: #1f2b7b
+    background: #0096FF
 }
 
 .date-tabs .tab-wrapper .single-box .single-caption.active .caption>span {
@@ -3760,7 +3760,7 @@ hr {
 .date-tabs .properties__button .nav-tabs .nav-item.show .nav-link,
 .date-tabs .properties__button .nav-tabs .nav-link.active {
     color: #fff;
-    background: #1f2b7b
+    background: #0096FF
 }
 
 .tab-pane {
@@ -3845,7 +3845,7 @@ hr {
 
 .gallery-area .box .overlay .overlay-content a {
     color: #fff;
-    background: #1f2b7b;
+    background: #0096FF;
     width: 60px;
     height: 60px;
     display: inline-block;
